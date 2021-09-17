@@ -1,4 +1,0 @@
-{"type":"FeatureCollection", "features": [
-{"type":"Feature","geometry":{"type":"Point","coordinates":[68.1077111,25.0591556]},"properties":{"Lat":25.0591556,"Long":68.1077111,"Type":"Bat Cave"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[68.1088722,25.0579111]},"properties":{"Lat":25.0579111,"Long":68.1088722,"Type":"Bat Cave"}}
-]}

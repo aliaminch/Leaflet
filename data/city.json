@@ -1,8 +1,0 @@
-{"type":"FeatureCollection", "features": [
-{"type":"Feature","geometry":{"type":"Point","coordinates":[68.36941256500006,25.382171303000064,0,-1.7976931348623157e+308]},"properties":{"Name":"Hyderabad","Type":"City","JWR_Locati":"","Selected":"SelectedLocations"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[68.30195978200004,25.37372384300005,0,-1.7976931348623157e+308]},"properties":{"Name":"Kotri","Type":"City","JWR_Locati":"","Selected":"SelectedLocations"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[67.13858126500003,24.91291244400003,0,-1.7976931348623157e+308]},"properties":{"Name":"Karachi","Type":"City","JWR_Locati":"","Selected":"SelectedLocations"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[67.5846767641552,24.744107005637872,0,-1.7976931348623157e+308]},"properties":{"Name":"Gharo","Type":"City","JWR_Locati":"","Selected":"SelectedLocations"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[68.53925797229564,25.132993151695228,0,-1.7976931348623157e+308]},"properties":{"Name":"Tando Muhammad Khan","Type":"City","JWR_Locati":"","Selected":"SelectedLocations"}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[67.9230668202284,24.746435624861444,0,-1.7976931348623157e+308]},"properties":{"Name":"Thatta","Type":"City","JWR_Locati":"","Selected":"SelectedLocations"}}
-]}

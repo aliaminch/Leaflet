@@ -1,7 +1,0 @@
-{"type":"FeatureCollection", "features": [
-{"type":"Feature","geometry":{"type":"Point","coordinates":[67.85502077271681,24.951476375555416,0,-1.7976931348623157e+308]},"properties":{"OBJECTID":7,"Name":"TAPAL","Funded_by":"","Type":"Under Construction","latitude":24.9514763756,"longitude":67.8550207727}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[68.00076334635139,25.087155300976406,0,-1.7976931348623157e+308]},"properties":{"OBJECTID":9,"Name":"Master-Final","Funded_by":"","Type":"Under Construction","latitude":25.087155301,"longitude":68.0007633464}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[67.95693945948852,25.171380239706366,0,-1.7976931348623157e+308]},"properties":{"OBJECTID":12,"Name":"Metro","Funded_by":"","Type":"Under Construction","latitude":25.1713802397,"longitude":67.9569394595}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[67.95975567478462,25.15594228051191,0,-1.7976931348623157e+308]},"properties":{"OBJECTID":13,"Name":"Gul Ahmed","Funded_by":"","Type":"Under Construction","latitude":25.1559422805,"longitude":67.9597556748}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[67.85896322086302,24.965654145829816,0,-1.7976931348623157e+308]},"properties":{"OBJECTID":23,"Name":"Hartford Alternative Energy-50 MW wind Farm","Funded_by":"","Type":"Under Construction","latitude":24.9656541458,"longitude":67.8589632209}}
-]}
