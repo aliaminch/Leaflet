@@ -52,7 +52,7 @@ var lyrDirtTrack;
 // ICON DEFINITION
 var SuperSix = L.icon({
     iconUrl: 'img/placeholder.png',
-    iconSize: [22, 22],
+    iconSize: [25, 25],
     iconAnchor: [5, 5],
     popupAnchor: [5, 5]
 });
