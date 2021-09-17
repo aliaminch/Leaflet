@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.7342806,24.9637722]},"properties":{"Lat":24.9637722,"Long":67.7342806,"Type":"Nest"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.7367389,24.9456889]},"properties":{"Lat":24.9456889,"Long":67.7367389,"Type":"Nest"}}
+]}

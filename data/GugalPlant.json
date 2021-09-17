@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.6457778,24.8984278]},"properties":{"Lat":24.8984278,"Long":67.6457778,"Type":"Gugal Plant"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.6463833,24.8984361]},"properties":{"Lat":24.8984361,"Long":67.6463833,"Type":"Gugal Plant"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.7366333,24.9456083]},"properties":{"Lat":24.9456083,"Long":67.7366333,"Type":"Gugal Plant"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.7594417,24.9163667]},"properties":{"Lat":24.9163667,"Long":67.7594417,"Type":"Gugal Plant"}}
+]}

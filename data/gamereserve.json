@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.57307748850721,25.457036457418667]},"properties":{"Name":"Mahal Kohistan","FolderPath":"Game Reserve"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.90306468944004,25.559426908411943]},"properties":{"Name":"Surjan, Sumbak, Eri and Hothiano","FolderPath":"Game Reserve"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.66743579444552,24.3328213450491]},"properties":{"Name":"Deh Jangisar","FolderPath":"Game Reserve"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.50139080987779,24.499654641350546]},"properties":{"Name":"Mirpur Sakro","FolderPath":"Game Reserve"}}
+]}

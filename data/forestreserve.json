@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.74764900000037,24.253038000000345]},"properties":{"Name":"","FolderPath":"Reserve Forest"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.74766300000044,24.248925000000384]},"properties":{"Name":"Marho Kotri","FolderPath":"Reserve Forest"}}
+]}

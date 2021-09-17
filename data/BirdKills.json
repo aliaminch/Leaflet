@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.9991444,25.0939]},"properties":{"Lat":25.0939,"Long":67.9991444,"Type":"Bird Kills"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.9991444,25.0939]},"properties":{"Lat":25.0939,"Long":67.9991444,"Type":"Bird Kills"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.9303583,25.101925]},"properties":{"Lat":25.101925,"Long":67.9303583,"Type":"Bird Kills"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.8154667,25.0465667]},"properties":{"Lat":25.0465667,"Long":67.8154667,"Type":"Bird Kills"}}
+]}

@@ -1,0 +1,16 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.79786237100006,25.163516455000035,0,-1.7976931348623157e+308]},"properties":{"Name":"Noori Abad","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.56679976400005,25.05265368000005,0,-1.7976931348623157e+308]},"properties":{"Name":"Goth Walidad Jokhio","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.45486419400004,25.03290925300007,0,-1.7976931348623157e+308]},"properties":{"Name":"DHA City Sector-3","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.29924081400003,25.05640474300003,0,-1.7976931348623157e+308]},"properties":{"Name":"Goth Nabi Bux Gabole","Type":"Town/Village","JWR_Locati":"JWR_Locations","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.62119085500007,24.978572917000065,0,-1.7976931348623157e+308]},"properties":{"Name":"Goth Malmari Jokhio","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.36898664100005,24.939770317000068,0,-1.7976931348623157e+308]},"properties":{"Name":"Darsano Chano","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.51711025200007,24.785294771000054,0,-1.7976931348623157e+308]},"properties":{"Name":"Dhabeji","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.35657981100007,24.83557380600007,0,-1.7976931348623157e+308]},"properties":{"Name":"Bin Qasim","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.77221465100007,24.859291340000027,0,-1.7976931348623157e+308]},"properties":{"Name":"Subz Ali Khan Brohi","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[68.01760754700007,25.017557901000032,0,-1.7976931348623157e+308]},"properties":{"Name":"Jhimpir","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.83656494500008,25.36433104100007,0,-1.7976931348623157e+308]},"properties":{"Name":"Thano Bula Khan","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.57611697500005,25.294184234000056,0,-1.7976931348623157e+308]},"properties":{"Name":"Sari Town","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[68.25237281754015,25.053533071581175,0,-1.7976931348623157e+308]},"properties":{"Name":"Jhirk","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[67.62816831100008,24.56727253200006,0,-1.7976931348623157e+308]},"properties":{"Name":"Mirpur Sakro","Type":"Town/Village","JWR_Locati":"","Selected":"SelectedLocations"}}
+]}
