@@ -7,7 +7,6 @@ var googleTerrain;
 var googleHybrid;
 var baselayers;
 var Overlay1;
-var Overlay2;
 var CompanyName;
 var mrkCurrentLocation;
 var popKeenjhar;
