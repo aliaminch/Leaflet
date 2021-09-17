@@ -50,6 +50,12 @@ var lyrUnsealed;
 var lyrCompacted;
 var lyrDirtTrack;
 // ICON DEFINITION
+var SuperSix = L.icon({
+    iconUrl: 'img/placeholder.png',
+    iconSize: [22, 22],
+    iconAnchor: [5, 5],
+    popupAnchor: [5, 5]
+});
 var undercons = L.icon({
     iconUrl: 'img/undercons.png',
     iconSize: [17, 22],
@@ -122,9 +128,6 @@ var areabird = L.icon({
     iconAnchor: [25, 25],
     popupAnchor: [5, 0]
 });
-
-
-
 
 $(document).ready(function () {
     myMap = L.map('map_div', { center: [25.07067, 67.85568], zoom: 10 });
@@ -219,6 +222,19 @@ $(document).ready(function () {
     }).addTo(myMap);
     //POINT FILES
     //WindPower
+    lyrSuperSix = L.geoJSON.ajax('data/SuperSix.json', {
+        onEachFeature: (feature = {}, layer) => {
+            const { properties = {} } = feature;
+            const { Name } = properties;
+            if (!Name) return;
+            layer.bindPopup("<h5>" + properties.Name + "</h5>");
+        },
+        pointToLayer: function (geoJsonPoint, latlng) {
+            return L.marker(latlng, {
+                icon: SuperSix
+            });
+        }
+    }).addTo(myMap);
     lyrCompleteWindProject = L.geoJSON.ajax('data/CompletedWindProject.json', {
         onEachFeature: (feature = {}, layer) => {
             const { properties = {} } = feature;
@@ -245,7 +261,7 @@ $(document).ready(function () {
             });
         }
     }).addTo(myMap);
-    lyrUnderConsWindProject = L.geoJSON.ajax('data/UnderCons_Six.json', {
+    lyrUnderConsWindProject = L.geoJSON.ajax('data/UnderConstruction.json', {
         onEachFeature: (feature = {}, layer) => {
             const { properties = {} } = feature;
             const { Name } = properties;
@@ -419,6 +435,7 @@ $(document).ready(function () {
         },
     }).addTo(myMap);
     Overlay1 = {
+        "Priority Projects" : lyrSuperSix,
         "Completed - Status of Wind Power Projects": lyrCompleteWindProject,
         "Under Construction - Status of Wind Power Projects": lyrUnderConsWindProject,
         "Planned - Status of Wind Power Projects": lyrPlannedWindProject,
