@@ -50,7 +50,7 @@ var lyrCompacted;
 var lyrDirtTrack;
 // ICON DEFINITION
 var SuperSix = L.icon({
-    iconUrl: 'img/placeholder.png',
+    iconUrl: 'img/PeriorityProjects.png',
     iconSize: [25, 25],
     iconAnchor: [5, 5],
     popupAnchor: [5, 5]
