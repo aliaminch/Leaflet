@@ -75,19 +75,19 @@ var complete = L.icon({
 });
 var bnest = L.icon({
     iconUrl: 'img/birdnest.png',
-    iconSize: [32, 37],
+    iconSize: [22,27],
     iconAnchor: [5, 5],
     popupAnchor: [0, 0]
 });
 var gplant = L.icon({
     iconUrl: 'img/guggalplant.png',
-    iconSize: [12, 17],
+    iconSize: [8, 10],
     iconAnchor: [5, 5],
     popupAnchor: [0, 0]
 });
 var bcave = L.icon({
     iconUrl: 'img/batcave.png',
-    iconSize: [62, 67],
+    iconSize: [42, 47],
     iconAnchor: [25, 25],
     popupAnchor: [0, 0]
 });
